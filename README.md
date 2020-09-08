@@ -1,2 +1,4 @@
 # D7011E_kompilatorteknik
-My code in 
+Mitt försök att implementera en kompilator i kursen D7011E på LTU.
+
+
